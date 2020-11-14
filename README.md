@@ -19,7 +19,7 @@
 
 In this challenge, I created a application to put in practice what I have learned in Node.js!
 
-Thils will be an application to storage portfolio repositories, that will allow to list, update, and delete repositories, and besides that, the repositories can also receive likes.
+This will be an application to storage portfolio repositories, that will allow to list, update, and delete repositories, and besides that, the repositories can also receive likes.
 
 ### Application Routes
 
